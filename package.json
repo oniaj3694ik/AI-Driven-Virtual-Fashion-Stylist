@@ -1,0 +1,26 @@
+{
+"name": "tren7-gncom",
+"version": "1.0.0",
+"description": "The AI-Driven Virtual Fashion Stylist analyzes user's body type, style preferences, and fashion trends to recommend clothing and accessories, create personalized outfit combinations, and provide styling advice.",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/oniaj3694ik/AI-Driven-Virtual-Fashion-Stylist.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "oniaj3694ik",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
